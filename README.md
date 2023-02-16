@@ -1,4 +1,4 @@
-### About lCyou（K.Yamakawa）
+# About lCyou（K.Yamakawa）
 
 　※完全に趣味やハッカソンでつくるプロトタイプをあげるようになってます
 
