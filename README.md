@@ -1,6 +1,7 @@
 # About lCyou（K.Yamakawa）
 
 　※完全に趣味やハッカソンでつくるプロトタイプをあげるようになってます
+ 学校とか始まると更新できなくなるのなんとかしたいです．．．
 
 
 [![](https://raw.githubusercontent.com/lCyou/lCyou/main/profile-summary-card-output/default/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
