@@ -3,7 +3,7 @@
 　※完全に趣味やハッカソンでつくるプロトタイプをあげるようになってます</br>
  学校とか始まると更新できなくなるのなんとかしたいです．．．
  
- https://lcyou-resume23.vercel.app/
+ <p>私については<a href="https://lcyou-resume23.vercel.app/" target="_blank" rel="noopener noreferrer">こちら</a>を確認ください</p>
 
 
 [![](https://raw.githubusercontent.com/lCyou/lCyou/main/profile-summary-card-output/default/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
