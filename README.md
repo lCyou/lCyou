@@ -1,5 +1,5 @@
 # About lCyou（K.Yamakawa）
-🌱 I’m currently learning Go<br>
+🌱 I’m currently learning Go, Ruby on rails<br>
 🤔 I’m looking for help with who understand brockchain<br>
 💬 Ask me about anything ? hmm...?<br>
 📫 How to reach me: <a href="https://x.com/lCyo_u">twitter</a><br>
