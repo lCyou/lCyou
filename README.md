@@ -23,4 +23,4 @@ contribute for Yamada UI
 [![](https://raw.githubusercontent.com/lCyou/lCyou/main/profile-summary-card-output/default/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) 
 
 ## Skills 🫠
-[![My Skills](https://skillicons.dev/icons?i=cpp,cloudflare,bots,docker,express,flask,fortran,git,github,githubactions,go,ipfs,js,latex,mysql,nextjs,nginx,nodejs,postgres,prisma,py,raspberrypi,rails,react,spring,sqlite,tailwind,ts,vue,&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cpp,cloudflare,bots,docker,express,flask,fortran,git,github,githubactions,go,js,latex,mysql,nextjs,nginx,nodejs,postgres,prisma,py,raspberrypi,rails,react,spring,sqlite,tailwind,ts,vue,&theme=light)](https://skillicons.dev)
