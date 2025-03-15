@@ -4,7 +4,7 @@
 💬 Ask me about anything ? hmm...?<br>
 📫 How to reach me: <a href="https://x.com/lCyo_u">twitter</a><br>
 😄 Pronouns: いちょう<br>
-⚡ Fun fact: swimmnig🏊, anime🎬:, Home-built keyboard⌨️, coffee☕️, running🏃<br>
+⚡ Fun fact: swimmnig🏊, anime🎬, Home-built keyboard⌨️, coffee☕️, running🏃<br>
 
 contribute for Yamada UI
 
